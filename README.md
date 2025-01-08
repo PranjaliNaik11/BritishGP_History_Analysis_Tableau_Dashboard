@@ -2,7 +2,7 @@
 
 Welcome to the British GP History Analysis Dashboard project! This repository contains a Tableau visualization designed to analyze historical data from the British Grand Prix (GP). The dashboard features a curved timeline chart and two bar charts to provide a detailed view of race outcomes and performance metrics. This tool aims to help motorsport enthusiasts and analysts explore trends and insights related to the British GP.
 
-## Features
+## Features:
 
 - **Curved Timeline Chart:** Visualize the history of the British GP with a curved timeline showing key events and race results over the years.
 - **Constructor Wins Bar Chart:** Display the number of wins by each constructor in descending order to highlight the most successful teams.
